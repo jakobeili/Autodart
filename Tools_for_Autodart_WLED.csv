@@ -1,3 +1,4 @@
 Effect Name;http://autodart_background.local/win&PL=1;gameon
 Takeout;http://autodart_background.local/win&PL=2;takeout
 Idle;http://autodart_background.local/win&PL=2;idle
+Stop;http://autodart_background.local/win&PL=3;board_stopped
