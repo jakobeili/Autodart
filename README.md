@@ -1,7 +1,7 @@
 # Autodart
 Files for Tools for Autodarts
 
-##WLED
+## WLED
 Game Events:
 - gameon
 - takeout
@@ -14,5 +14,5 @@ Game Events:
 - t20_t20_t20
 - t20_t20_bull
 
-##Caler
+## Caller
 https://github.com/MarcelR9/AutodartsRussBray
